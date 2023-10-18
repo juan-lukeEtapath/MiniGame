@@ -19,7 +19,6 @@ export default function App() {
 const styles = StyleSheet.create({
   root: {
     flex: 1,
-    //backgroundColor: '#c6c013',
   },
   bgImage: {
     opacity: 0.15,
